@@ -60,17 +60,23 @@ npm install
 
 --------------------------------------  
 
-
-
-
-
-
-
-
-
-  
-
---------------------------------------  
+ CREAR APLICACIÓN  
+ 
+ ng new nombre-aplicacion  
+ 
+ --------------------------------------  
+ 
+ INICIAR SERVIDOR  
+ 
+ En la carpeta de la aplicación  
+ cd nombre-aplicacion  
+ ng serve -o  
+ 
+ Abre el navegador  
+ http://localhost:4200/
+ 
+ --------------------------------------    
+ 
 
 
 

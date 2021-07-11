@@ -95,7 +95,11 @@ https://docs.npmjs.com/cli/v7/commands/npm-install
 
 npm install  
 
-  
+
+GRÁFICAS  
+
+npm install ng2-charts --save  
+
 
 --------------------------------------  
 

@@ -24,6 +24,14 @@ https://stackblitz.com/
   
 --------------------------------------  
 
+STORYBOOK  
+
+
+https://storybook.js.org/docs/angular/get-started/install  
+https://www.npmjs.com/package/@storybook/angular  
+  
+--------------------------------------  
+
 ANGULAR DEV TOOLS  
 
 https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh/related  

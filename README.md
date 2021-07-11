@@ -1,6 +1,7 @@
 # angular_tips
 
 
-EXTENSIONES VSCODE
+EXTENSIONES VSCODE  
+
 Angular Language Service
 TSLint

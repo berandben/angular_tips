@@ -99,6 +99,7 @@ npm install
 GRÁFICAS  
 
 npm install ng2-charts --save  
+npm install chart.js --save
 
 
 --------------------------------------  

@@ -91,7 +91,13 @@ npm install
  
  --------------------------------------  
  
- COMPILAR APP
+ AYUDA 
+ 
+ ng help
+  
+ --------------------------------------  
+ 
+  COMPILAR APP
  
  ng build  
  

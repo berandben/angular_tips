@@ -96,7 +96,7 @@ https://docs.npmjs.com/cli/v7/commands/npm-install
 npm install  
 
 
-GRÁFICAS  
+GRÁFICAS  https://valor-software.com/ng2-charts/#schematics  
 
 npm install ng2-charts --save  
 npm install chart.js --save  

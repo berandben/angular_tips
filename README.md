@@ -8,7 +8,15 @@ https://angular.io/
 EDITOR ONLINE  
 
 https://stackblitz.com/  
+  
+  
+--------------------------------------  
 
+ANGULAR DEV TOOLS  
+
+https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh/related  
+  
+  
 --------------------------------------  
 
 CONSOLA PORTABLE  

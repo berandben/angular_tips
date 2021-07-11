@@ -125,7 +125,7 @@ npm install
   
  --------------------------------------  
  
-  COMPILAR APP
+ COMPILAR APP
  
  ng build  
  
@@ -152,8 +152,10 @@ npm install
  INCLUIR ANGULAR MATERIAL EN LA APLICACIÓN  
  
  https://material.angular.io/guide/getting-started  
- ng add @angular/material
+ ng add @angular/material  
  
+ ng add @angular/cdk https://material.angular.io/cdk/categories  
+   
  --------------------------------------  
  
  APLICACIÓN ANGULAR + IONIC  

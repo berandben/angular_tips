@@ -75,6 +75,9 @@ npm install
  En la carpeta de la aplicación  
  ng serve -o  
  
+ ng serve --port 4201  cambia el puerto por defecto  
+ 
+ 
  Abre el navegador  
  http://localhost:4200/
  

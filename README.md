@@ -68,8 +68,8 @@ npm install
  
  INICIAR SERVIDOR  
  
- En la carpeta de la aplicación  
  cd nombre-aplicacion  
+ En la carpeta de la aplicación  
  ng serve -o  
  
  Abre el navegador  

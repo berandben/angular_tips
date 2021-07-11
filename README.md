@@ -3,6 +3,18 @@
 https://angular.io/  
 
 
+-------------------------------------- 
+
+API  
+https://angular.io/api  
+
+API/PIPES  
+https://angular.io/api/common#pipes 
+
+API/DIRECTIVAS  
+https://angular.io/api/common#directives  
+
+  
 --------------------------------------  
 
 EDITOR ONLINE  

@@ -1,5 +1,7 @@
 # angular_tips  
 
+--------------------------------------  
+
 EDITOR ONLINE  
 
 https://stackblitz.com/  

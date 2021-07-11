@@ -16,7 +16,6 @@ https://cmder.net/
 -------------------------------------- 
 
 
-
 MOCKED JSON  
 
 https://github.com/typicode/json-server  
@@ -33,5 +32,44 @@ Angular Language Service
 TSLint  
 
 --------------------------------------  
+
+INSTALACIÓN  
+
+Node.js  https://nodejs.org/en/  
+Versión node -v  
+
+NPM Node Package Manager (Node.js lo instala por defecto)  
+
+https://www.npmjs.com  
+
+
+  
+
+--------------------------------------  
+
+
+DESCARGAR E INSTALAR LOS PAQUETES (package.json)  
+
+https://docs.npmjs.com/cli/v7/commands/npm-install  
+
+npm install  
+
+  
+
+--------------------------------------  
+
+
+
+
+
+
+
+
+
+  
+
+--------------------------------------  
+
+
 
 

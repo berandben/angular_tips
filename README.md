@@ -77,6 +77,30 @@ npm install
  
  --------------------------------------  
  
+ COMPILAR APP
+ 
+ ng build  
+ 
+ ng build --prod  (producción)  
+  
+ --------------------------------------  
+ 
+ GENERAR COMPONENTES, MÓDULOS, SERVICIOS  
+ 
+ ng generate component nombre-componente  
+ ng generate module nombre-modulo  
+ ng generate service nombre-servicio    
+  
+ -------------------------------------  
+ 
+ GENERAR TESTS  
+ 
+ ng test  
+ 
+   
+ -------------------------------------   
+ 
+ 
  INCLUIR ANGULAR MATERIAL EN LA APLICACIÓN  
  
  https://material.angular.io/guide/getting-started  

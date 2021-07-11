@@ -36,14 +36,16 @@ TSLint
 INSTALACIÓN  
 
 Node.js  https://nodejs.org/en/  
-Versión node -v  
+Versión: node -v  
 
-NPM Node Package Manager (Node.js lo instala por defecto)  
-
+NPM (Node Package Manager) (Node.js lo instala por defecto)  
 https://www.npmjs.com  
+Versión: npm -v  
 
+Angular CLI  (Command Line Interface)  
+npm install -g @angular/cli  
+Versión: ng --version  
 
-  
 
 --------------------------------------  
 

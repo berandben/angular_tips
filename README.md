@@ -75,7 +75,23 @@ npm install
  Abre el navegador  
  http://localhost:4200/
  
- --------------------------------------    
+ --------------------------------------  
+ 
+ INCLUIR ANGULAR MATERIAL EN LA APLICACIÓN  
+ 
+ https://material.angular.io/guide/getting-started  
+ ng add @angular/material
+ 
+ --------------------------------------  
+ 
+ APLICACIÓN ANGULAR + IONIC  
+ 
+ https://ionicframework.com/docs/intro/cdn  
+ npm install @ionic/angular@latest --save  
+ 
+ 
+ --------------------------------------  
+ 
  
 
 

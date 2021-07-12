@@ -172,6 +172,17 @@ npm install --save-dev ng2-charts-schematics
  
  --------------------------------------  
  
+ FONT AWESOME 
+ 
+ https://www.npmjs.com/package/@fortawesome/angular-fontawesome  
+ 
+ https://fontawesome.com/v5.15/icons?d=gallery&p=3&m=free  
+ 
+ https://es.stackoverflow.com/a/201614  
+ 
+  
+ -------------------------------------- 
+ 
  
 
 

@@ -180,6 +180,9 @@ npm install --save-dev ng2-charts-schematics
  
  https://es.stackoverflow.com/a/201614  
  
+ https://www.npmjs.com/package/@fortawesome/fontawesome-free  
+ 
+ 
   
  -------------------------------------- 
  

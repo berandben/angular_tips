@@ -143,7 +143,14 @@ npm install --save-dev ng2-charts-schematics
  
  ng generate component nombre-componente  
  ng generate module nombre-modulo  
- ng generate service nombre-servicio    
+ ng generate service nombre-servicio  
+ ng generate interface nombre-interfaz  
+ ng generate directive nombre-directiva  
+ ng generate pipe nombre-pipe  
+ ng generate guard nombre-guard  
+ ng generate enum nombre-enum  
+ ng generate class nombre-clase --type=model  
+ 
   
  -------------------------------------  
  

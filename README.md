@@ -191,7 +191,23 @@ npm install --save-dev ng2-charts-schematics
  
  
   
- -------------------------------------- 
+ --------------------------------------  
+ 
+ ESTRUCTURA DE CARPETAS  
+ 
+ src  
+ ---app  
+ ---------components  
+ ----------------------componenteA  
+ ------------------------------------layout  
+ ------------------------------------component  (módulos u otros componentes)  
+ ---core  
+ ----------authorization  
+ ----------cache  
+ ----------functions  
+ ----------localization  
+ 
+ 
  
  
 

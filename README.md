@@ -105,6 +105,17 @@ npm install --save-dev ng2-charts-schematics
 
 --------------------------------------  
 
+NVM  
+
+https://github.com/coreybutler/nvm-windows  
+https://github.com/coreybutler/nvm-windows/releases  
+
+
+
+--------------------------------------  
+
+
+
  CREAR APLICACIÓN  
  
  ng new nombre-aplicacion  

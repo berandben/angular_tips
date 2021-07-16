@@ -206,6 +206,19 @@ npm install --save-dev ng2-charts-schematics
  ----------cache  
  ----------functions  
  ----------localization  
+ ---services  
+ --------------servicioA  
+ ---ui-controls  
+ -----------------material  
+ -----------------pipes  
+ -----------------directives  
+ -----------------form-controls  
+ ---------------------------------ui-button  
+ ---------------------------------ui-icons  
+ ---------------------------------ui-input  
+  -----------------dialogs  
+ 
+ 
  
  
  

@@ -110,7 +110,7 @@ NVM
 https://github.com/coreybutler/nvm-windows  
 https://github.com/coreybutler/nvm-windows/releases  
 
-
+Versión: nvm -v  
 
 --------------------------------------  
 

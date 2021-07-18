@@ -179,7 +179,9 @@ Versión: nvm version
  ng add @angular/material  
  
  ng add @angular/cdk https://material.angular.io/cdk/categories  
-   
+ 
+ https://material.angular.io/guide/schematics  
+    
  --------------------------------------  
  
  APLICACIÓN ANGULAR + IONIC  
